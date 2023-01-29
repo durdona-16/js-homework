@@ -11,27 +11,18 @@ console.log(f);
 // 1
 
 
+
+
 // 3 Assitment result
 let g=2
 let x=1+(g*=2)
 console.log(x);
+// 5
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Type conversion
 let a=""+1+5
 console.log(typeof a);
 // string 15
@@ -65,6 +56,10 @@ console.log(undefined+1);
 // NaN
 console.log("\t\n"-2);
 // -2
+
+
+
+//  Comparison
 console.log(5>4);
 // true
 console.log("apple">"pineapple");
