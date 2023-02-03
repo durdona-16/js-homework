@@ -16,6 +16,14 @@ if(b="ECMAScript"){console.log("Right");
 }
 else{console.log("You don`t know ECMAScript")}
 
+
+
+
+let c="other"
+if (c="other"){console.log("Right")
+}
+else{console.log("You don`t know ECMAScript")}
+
 // task 3
 let d=4
 let  e=2
